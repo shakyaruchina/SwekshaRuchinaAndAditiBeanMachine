@@ -13,6 +13,8 @@ public class BeanMachineGame {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Gamers!");
+		
+		//Aditi and Ruchina adding something
 	}
 
 }
